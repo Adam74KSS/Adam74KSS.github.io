@@ -1,0 +1,17 @@
+html {
+	background-color: #12E9D2;
+}
+
+body{
+	background-color: #FA5858;
+    color: #000000;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+}
+
+#gros_titre{
+	background-color: #040404;
+    color: #FDFDFD;
+}
